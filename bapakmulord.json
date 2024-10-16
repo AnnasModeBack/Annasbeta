@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "085768351775",
+      "password": "anasl"
+    },
+    {
+      "whatsappNumber": "085768351837",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "085768351775",
+      "token": "anasl123"
+    },
+    {
+      "whatsappNumber": "085768351837",
+      "token": "anas123"
+    }
+  ]
+}

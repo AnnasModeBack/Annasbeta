@@ -13,8 +13,8 @@
       "password": "123"
     },
     {
-      "whatsappNumber": "nomorbyyer",
-      "password": "bebaspw"
+      "whatsappNumber": "083837166690",
+      "password": "123"
     }
   ],
   "approvedUsers": [
@@ -25,6 +25,14 @@
     {
       "whatsappNumber": "083173814158",
       "token": "anasl123"
+    },
+    {
+      "whatsappNumber": "083837166690",
+      "token": "123"
+    },
+    {
+      "whatsappNumber": "",
+      "token": ""
     },
     {
       "whatsappNumber": "085624606801",

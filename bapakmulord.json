@@ -2,11 +2,7 @@
   "users": [
     {
       "whatsappNumber": "085768351775",
-      "password": "anasl"
-    },
-    {
-      "whatsappNumber": "",
-      "password": ""
+      "password": "apa"
     },
     {
       "whatsappNumber": "083173814158",
@@ -24,7 +20,7 @@
   "approvedUsers": [
     {
       "whatsappNumber": "085768351775",
-      "token": "anasl123"
+      "token": "apa"
     },
     {
       "whatsappNumber": "083173814158",
